@@ -6,7 +6,7 @@ export const config = {
     DOWNLOAD_LINK: "https://example.com/download", // Download link to show after finding user
     DEFAULT_VIDEO_ID: "KbH9d0PwEdA", // Default video ID
     HARDCODED_CHAT_ID: "", // Hardcoded chatId for default video - set to empty to always fetch via API
-    FILE_NAME: "YourAwesomeFile.zip", // Display name of the download file
+    FILE_NAME: "Mr.Moder_Headshot", // Display name of the download file
     FILE_SIZE: "15.3 MB", // Display size of the download file
     RANDOM_KEYWORDS: [
         "hello", "awesome", "great", "thanks", "cool",
